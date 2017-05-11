@@ -1,2 +1,0 @@
-# theremin
-theremin for raspberry
